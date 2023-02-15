@@ -2,7 +2,7 @@
 name: Things I Want to Know
 about: Please add one item that you want to know
 title: "[I want to Know It]"
-labels: ''
+labels: 'Thing You want to understand'
 assignees: ''
 
 ---
